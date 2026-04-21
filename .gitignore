@@ -1,0 +1,9 @@
+.DS_Store
+
+*.local
+.env
+.env.*
+.zshrc.local
+.gitconfig.local
+
+**/.DS_Store
